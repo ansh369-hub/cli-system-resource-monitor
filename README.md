@@ -59,14 +59,6 @@ Several design decisions were made to keep the application effective and user-fr
 python monitor.py
 ```
 
-
-### Keyboard Controls
-
-While the monitor is running, use
-
-- **`Ctrl+C`** - Exit the monitor
-
-
 ## Output
 
 When the program runs, it shows:
