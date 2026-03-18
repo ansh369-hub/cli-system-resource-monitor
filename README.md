@@ -6,7 +6,6 @@ A lightweight CLI-based system resource monitor that displays real-time CPU, mem
 
 - **Real-time System Metrics** - Live CPU, RAM, and disk usage with color-coded indicators
 - **Process Monitoring** - Track top 20 processes by CPU or memory consumption
-- **Dynamic Sorting** - Toggle between CPU and memory sorting with ascending/descending order
 - **Color-Coded Display** - Green (good), yellow (warning), red (critical) for quick visual feedback
 - **Minimal Dependencies** - Uses only `psutil` and `rich` libraries
 
